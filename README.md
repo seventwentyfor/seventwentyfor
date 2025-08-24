@@ -2,19 +2,7 @@
 
 A Computer Science student who’s still learning and exploring the world of technology. I may not be an expert yet, but I enjoy discovering new things about programming, problem-solving, and how computers shape our everyday lives. This space is where I share my small projects, progress, and experiences as I grow in this field.
 
-EDUCATION BACKGROUND:<br/>
-College<br/>
-     Laguna State Polytechnic University- Sta. Cruz Campus<br/>
-     2025-2026 -Present<br/>
-     
-Senior High<br/>
-     Buenavista Intergrated National High School<br/>
-     2021-2022<br/>
-     San Juan National High School Handong Libmanan Cam Sur<br/>
-     2020-2021<br/>
-     
-Junior High<br/>
-     San Juan National High School Handong Libmanan Cam Sur<br/>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cy0686) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cindy-alabat-251279380) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cindyalabat779@gmail.com) 
