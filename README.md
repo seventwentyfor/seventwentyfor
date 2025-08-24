@@ -6,11 +6,13 @@ EDUCATION BACKGROUND:<br/>
 College<br/>
      Laguna State Polytechnic University- Sta. Cruz Campus<br/>
      2025-2026 -Present<br/>
+     
 Senior High<br/>
      Buenavista Intergrated National High School<br/>
      2021-2022<br/>
      San Juan National High School Handong Libmanan Cam Sur<br/>
      2020-2021<br/>
+     
 Junior High<br/>
      San Juan National High School Handong Libmanan Cam Sur<br/>
 
