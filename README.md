@@ -1,6 +1,6 @@
 ## Hello! 
 
-A Computer Science student who’s still learning and exploring the world of technology. I may not be an expert yet, but I enjoy discovering new things about programming, problem-solving, and how computers shape our everyday lives. This space is where I share my small projects, progress, and experiences as I grow in this field.
+Im A Computer Science student who’s still learning and exploring the world of technology. I may not be an expert yet, but I enjoy discovering new things about programming, problem-solving, and how computers shape our everyday lives. This space is where I share my small projects, progress, and experiences as I grow in this field.
 
 
 ## 🌐 Socials:
